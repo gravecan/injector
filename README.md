@@ -1,2 +1,2 @@
 # injector
-custom go injector for private use
+custom go injector for bypassing at mc
